@@ -156,6 +156,7 @@ f.top10 <- f.lda.tidy %>% group_by(topic) %>% top_n(10, beta) %>% ungroup() %>% 
 plot_f <- f.top10 %>%mutate(term = reorder(term, beta)) %>% ggplot(aes(term, beta, fill = factor(topic))) +geom_bar(stat = "identity", show.legend = T) +facet_wrap(~ topic, scales = "free") +coord_flip() + ggtitle("Female:Top 10 Words in Nine Topic")
 plot_f
 ```
+
 # IV. Time Effect Analysis
 Time is always an effective influence to the content of happy moments. Therefore, I would like to analyze what is the shift between past 24 hours and 3 months in each gender.  
 
