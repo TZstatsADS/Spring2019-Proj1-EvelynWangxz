@@ -9,8 +9,8 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Happy Moment Analysis
++ This project is conducted by [Xinzhu Wang]
 
 + Project summary: [a short summary] What makes people happy? It is always a topic deserving exploration and analysis. In this project, I will discuss the differences of happy moments between male and female, as well as the happy moments for past 24 hours versus 3 months. Also analysis of snine different topics of happy moments for each gender will be included. Hope these analysis will provide people a better undersatnd of happiness and how happy moments spark in everyone's daily life. 
 
