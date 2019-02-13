@@ -1,6 +1,8 @@
 ---
 title: "Project 1 - Happy Moment Analysis"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r, message=F,echo=F}
